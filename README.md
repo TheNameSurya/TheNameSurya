@@ -2,11 +2,23 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Portfolio Website
+Welcome to my personal portfolio website! This website serves as a showcase of my skills, projects, and experiences.
 
-<!---
-TheNameSurya/TheNameSurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Features:
+Home Page: Provides an introduction to who I am, my background, skills, and showcases notable projects.
+Contact Page: Offers a simple form to reach out to me directly.
+Technologies Used:
+HTML
+Basic CSS for styling
+How to View:
+Clone this repository to your local machine using the following command:
+
+Open the index.html file in your web browser to view the Home page.
+
+To access the Contact page, simply click on the "Contact" link in the navigation menu on the Home page.
+
+
+Contact:
+If you have any questions or feedback, feel free to reach out to me at Suryavalentino24@gmail.com
+
